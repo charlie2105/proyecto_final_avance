@@ -1,0 +1,19 @@
+#blog h3, h4 {
+	text-align: center;
+}
+
+#blog .contador {
+
+
+	display: flex;
+	
+}
+
+#blog article {
+	margin: 15px;
+}
+#blog img {
+	width: 100%;
+	max-width: 288px;
+	
+}

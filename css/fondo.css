@@ -1,0 +1,22 @@
+#fondo {
+	margin-top: 50px;
+	position: relative;
+}
+
+#fondo img{
+	height: 100%;
+	width: 100%
+
+}
+#fondo .contenedor {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	color: #fff;
+	text-transform:  translateX(-50%) translateY(-50%);
+
+}
+
+#fondo h2 {
+	font-size: 28px;
+}
